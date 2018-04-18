@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-application progid="Excel.Sheet"?>
+ <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Worksheet ss:Name="MyProject">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+<Row><Cell><Data ss:Type="String">ID</Data></Cell><Cell><Data ss:Type="String">Proyecto</Data></Cell><Cell><Data ss:Type="String">Informador</Data></Cell><Cell><Data ss:Type="String">Asignada a</Data></Cell><Cell><Data ss:Type="String">Prioridad</Data></Cell><Cell><Data ss:Type="String">Severidad</Data></Cell><Cell><Data ss:Type="String">Versión del producto</Data></Cell><Cell><Data ss:Type="String">Categoría</Data></Cell><Cell><Data ss:Type="String">Fecha de envío</Data></Cell><Cell><Data ss:Type="String">Visibilidad</Data></Cell><Cell><Data ss:Type="String">Actualizada</Data></Cell><Cell><Data ss:Type="String">Resumen</Data></Cell><Cell><Data ss:Type="String">Estado</Data></Cell><Cell><Data ss:Type="String">Resolución</Data></Cell><Cell><Data ss:Type="String">Resuelta en versión</Data></Cell></Row><Row><Cell ><Data ss:Type="Number">0000003</Data></Cell>
+<Cell ><Data ss:Type="String">MyProject</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">urgente</Data></Cell>
+<Cell ><Data ss:Type="String">mayor</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+<Cell ><Data ss:Type="String">General</Data></Cell>
+<Cell ><Data ss:Type="String">2018-04-16</Data></Cell>
+<Cell ><Data ss:Type="String">público</Data></Cell>
+<Cell ><Data ss:Type="String">2018-04-16</Data></Cell>
+<Cell ><Data ss:Type="String">El código de Productos no elimina.</Data></Cell>
+<Cell ><Data ss:Type="String">asignada</Data></Cell>
+<Cell ><Data ss:Type="String">abierta</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+</Row><Row><Cell ><Data ss:Type="Number">0000002</Data></Cell>
+<Cell ><Data ss:Type="String">MyProject</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">urgente</Data></Cell>
+<Cell ><Data ss:Type="String">mayor</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+<Cell ><Data ss:Type="String">General</Data></Cell>
+<Cell ><Data ss:Type="String">2018-04-16</Data></Cell>
+<Cell ><Data ss:Type="String">público</Data></Cell>
+<Cell ><Data ss:Type="String">2018-04-16</Data></Cell>
+<Cell ><Data ss:Type="String">No hay conexión a la base de datos</Data></Cell>
+<Cell ><Data ss:Type="String">asignada</Data></Cell>
+<Cell ><Data ss:Type="String">abierta</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+</Row><Row><Cell ><Data ss:Type="Number">0000001</Data></Cell>
+<Cell ><Data ss:Type="String">MyProject</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">urgente</Data></Cell>
+<Cell ><Data ss:Type="String">mayor</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+<Cell ><Data ss:Type="String">General</Data></Cell>
+<Cell ><Data ss:Type="String">2018-04-16</Data></Cell>
+<Cell ><Data ss:Type="String">público</Data></Cell>
+<Cell ><Data ss:Type="String">2018-04-16</Data></Cell>
+<Cell ><Data ss:Type="String">No hay enlace con la clase Usuario.</Data></Cell>
+<Cell ><Data ss:Type="String">asignada</Data></Cell>
+<Cell ><Data ss:Type="String">abierta</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+</Row></Table>
+</Worksheet></Workbook>
